@@ -4,7 +4,7 @@
 
 Submitted by: **Nguyen An Huy**
 
-Time spent: **48** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -15,29 +15,28 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 * [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] Add icon & lauch screen for application
+- [ ] Create pickview option for default percentage
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/0TvB0Nc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Have issue when coding with Swift 3 with the tutorial of Swift 2.
+Have problem when coded UIView animation & lauch screen before. But so far, I get them.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [An Huy]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
