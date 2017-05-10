@@ -31,8 +31,8 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-Have issue when coding with Swift 3 with the tutorial of Swift 2.
-Have problem when coded UIView animation & lauch screen before. But so far, I get them.
+- [ ] Have issue when coded with Swift 3 with the tutorial of Swift 2.
+- [ ] Have problem when coded UIView animation & lauch screen before. But so far, I get them.
 
 ## License
 
